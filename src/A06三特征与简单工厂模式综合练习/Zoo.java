@@ -21,6 +21,17 @@ public class Zoo {
         animal.introduce();
 
         Factory.makeAnimal("bird").introduce();
+        System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
 
+
+        giveIntrduce(new Birds("yellow",12,"fly around"));
+    }
+
+    /**
+     * 使用父类做方法的形参，实参是任意子类对象
+     * @param animal
+     */
+    public static void giveIntrduce(Animal animal){
+        animal.introduce();
     }
 }
