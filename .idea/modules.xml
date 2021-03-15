@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/A01自增自减/A01自增自减.iml" filepath="$PROJECT_DIR$/A01自增自减/A01自增自减.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A02打印图形/A02打印图形.iml" filepath="$PROJECT_DIR$/A02打印图形/A02打印图形.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A03数组索引位插入/A03数组索引位插入.iml" filepath="$PROJECT_DIR$/A03数组索引位插入/A03数组索引位插入.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A04排序算法/A04排序算法.iml" filepath="$PROJECT_DIR$/A04排序算法/A04排序算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A05小游戏双色球系统/A05小游戏双色球系统.iml" filepath="$PROJECT_DIR$/A05小游戏双色球系统/A05小游戏双色球系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A06三特征与简单工厂模式综合练习/A06三特征与简单工厂模式综合练习.iml" filepath="$PROJECT_DIR$/A06三特征与简单工厂模式综合练习/A06三特征与简单工厂模式综合练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A07小游戏猜丁壳/A07小游戏猜丁壳.iml" filepath="$PROJECT_DIR$/A07小游戏猜丁壳/A07小游戏猜丁壳.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE.iml" filepath="$PROJECT_DIR$/JavaSE.iml" />
     </modules>
   </component>
