@@ -39,6 +39,7 @@ public class GuessGame implements GameInterface{
             if (computerPlayer.getWinCount() == Constants.WIN_COUNT||userPlayer.getWinCount() == Constants.WIN_COUNT) {
                 break;
             }
+            count++;
         }
     }
 
