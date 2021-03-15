@@ -22,6 +22,7 @@ public class GuessGame implements GameInterface{
     @Override
     public void startGame() {
         while (true){
+            System.out.println("====================第"+count+"局=======================");
             //用户玩家出拳
             int userValue = userPlayer.getInputValue();
             //电脑玩家出拳
