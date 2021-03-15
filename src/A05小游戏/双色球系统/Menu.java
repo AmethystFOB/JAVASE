@@ -1,4 +1,4 @@
-package A05小项目.双色球系统;
+package A05小游戏.双色球系统;
 
 import java.util.Scanner;
 
