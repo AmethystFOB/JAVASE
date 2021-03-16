@@ -2,6 +2,9 @@ package 冒泡排序;
 
 import java.util.Arrays;
 
+/**
+ * n个数 最多执行 n-1 趟循环； 最少执行 1 趟循环
+ */
 public class Bubble {
     public static void main(String[] args){
         int[] array = {5,9,8,4,1,6,7,3,2};
