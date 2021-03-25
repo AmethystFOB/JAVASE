@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/A07小游戏猜丁壳/A07小游戏猜丁壳.iml" filepath="$PROJECT_DIR$/A07小游戏猜丁壳/A07小游戏猜丁壳.iml" />
       <module fileurl="file://$PROJECT_DIR$/A08可视化日历/A08可视化日历.iml" filepath="$PROJECT_DIR$/A08可视化日历/A08可视化日历.iml" />
       <module fileurl="file://$PROJECT_DIR$/A09文件与IO流相关/A09文件与IO流相关.iml" filepath="$PROJECT_DIR$/A09文件与IO流相关/A09文件与IO流相关.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A10多线程/A10多线程.iml" filepath="$PROJECT_DIR$/A10多线程/A10多线程.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE.iml" filepath="$PROJECT_DIR$/JavaSE.iml" />
     </modules>
   </component>
